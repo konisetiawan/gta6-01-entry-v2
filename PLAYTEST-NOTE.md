@@ -1,0 +1,1 @@
+Play-test note: the first run showed the player spawning inside a building, where collision checks prevented any movement. The start position now sits on the road beside the first parked car, so the opening objective can be played immediately. The browser also reported a missing favicon; the page now declares an empty inline icon to avoid the failing request.
